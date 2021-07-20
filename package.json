@@ -14,7 +14,7 @@
     "i18n-js": "^3.5.0",
     "lodash.memoize": "^4.1.2",
     "react": "16.9.0",
-    "react-native": "^0.62.0",
+    "react-native": "^0.62.3",
     "react-native-autocomplete-input": "github:mrlaessig/react-native-autocomplete-input",
     "react-native-final-tree-view": "^2.0.1",
     "react-native-gallery-swiper": "^1.25.2",
